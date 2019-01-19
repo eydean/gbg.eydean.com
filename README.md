@@ -5,8 +5,7 @@ This is the Repository consisting Google Business Group event focused landing pa
 Contributing
 ------------
 
-Please see [CONTRIBUTING.md](https://github.com/eydean/gbg.eydean.com/blob/gh-pages/CONTRIBUTING.md). Many improvements and bugfixes were contributed by the [open source
-community](https://github.com/eydean/eydean.com/graphs/contributors).
+Please see [CONTRIBUTING.md](https://github.com/eydean/gbg.eydean.com/blob/master/CONTRIBUTING.md). Many improvements and bugfixes were contributed by the [open source community](https://github.com/eydean/gbg.eydean.com/graphs/contributors).
 
 License
 -------
@@ -18,7 +17,7 @@ About eydean
 
 <img src="https://eydean.com/images/logo.svg" width="300">
 
-Eydean.com is maintained and funded by Eydean Inc. 
+gbg.eydean.com is maintained and funded by Eydean Inc. 
 The names and logos for eydean are trademarks of Eydean Inc.
 
 We love open source software!
